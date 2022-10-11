@@ -1,0 +1,15 @@
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.csproj.AssemblyReference.cache
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.AssemblyInfoInputs.cache
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.AssemblyInfo.cs
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.csproj.CoreCompileInputs.cache
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.deps.json
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.runtimeconfig.json
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.dll
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/bin/Debug/net6.0/Example001_HellowConsole.pdb
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.dll
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/refint/Example001_HellowConsole.dll
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.pdb
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/Example001_HellowConsole.genruntimeconfig.cache
+/Users/vlad/Desktop/с#/Example/Example001_HellowConsole/obj/Debug/net6.0/ref/Example001_HellowConsole.dll
