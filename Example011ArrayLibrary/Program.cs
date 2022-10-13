@@ -21,7 +21,29 @@ void PrintArray(int[] col) // методы (функции)- не возраща
     }
 }
 
-int[] array = new int[20];// по умолчанию заполняется нулями
+int IndexOff(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = 0;
+    while (index < count)
+    {
+        if (collection[index] == find)
+        {
+            position = index;
+        }
+        index++;
+    }
+    return position;
+}
+
+
+int[] array = new int[10];// по умолчанию заполняется нулями
 
 FillArray(array);
 PrintArray(array);
+Console.WriteLine(); // пустая строчка
+Console.WriteLine();// пустая строчка
+
+int pos = IndexOff(array, 3);
+Console.WriteLine(pos);
