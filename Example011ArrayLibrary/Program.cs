@@ -9,7 +9,6 @@
     }
 }
 
-
 void PrintArray(int[] col) // методы (функции)- не возращает значения, не нужен ретерн
 {
     int count = col.Length; // длина массива "col"
@@ -20,17 +19,17 @@ void PrintArray(int[] col) // методы (функции)- не возраща
         position++;
     }
 }
-
 int IndexOff(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0;
+    int position = -1;
     while (index < count)
     {
         if (collection[index] == find)
         {
             position = index;
+            break;
         }
         index++;
     }
@@ -45,5 +44,5 @@ PrintArray(array);
 Console.WriteLine(); // пустая строчка
 Console.WriteLine();// пустая строчка
 
-int pos = IndexOff(array, 3);
+int pos = IndexOff(array, 4);
 Console.WriteLine(pos);
