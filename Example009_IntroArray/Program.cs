@@ -1,4 +1,4 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿/*int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if (arg2 > result) result = arg2;
@@ -15,20 +15,20 @@ int max = Max(
     );
 
 Console.WriteLine(max);
+*/
 
 
 
 
 
 
-
-/*
+int[] array = { 4, 52, 93, 74, 55, 65, 57, 85, 898 };
 int max = array[0];
-while (i < 9)
+int i = 1;
+int n = array.Length;
+while (i < n)
 {
-    if (max > array[i]) max = array[i];
+    if (array[i] > max) max = array[i];
     i++;
 }
-
-
-Console.WriteLine(max);*/
+Console.WriteLine(max);
