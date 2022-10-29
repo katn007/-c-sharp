@@ -19,6 +19,7 @@ void PrintArray(int[] col) // методы (функции)- не возраща
         position++;
     }
 }
+
 int IndexOff(int[] collection, int find)
 {
     int count = collection.Length;
@@ -41,6 +42,7 @@ int[] array = new int[10];// по умолчанию заполняется ну
 
 FillArray(array);
 PrintArray(array);
+
 Console.WriteLine(); // пустая строчка
 Console.WriteLine();// пустая строчка
 
